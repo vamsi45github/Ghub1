@@ -1,8 +1,8 @@
  introduction
 
- SCM
- BUILD
- CI/CD
- BACKUP
- CODE QUALITY
- DEPLOY
+ SCM-------------git/stash/bit-bucket/svn
+ BUILD-----------maven/ant/gradle/fastlane
+ CI/CD-----------jenkins/bamboo/circle-ci/travies
+ BACKUP----------Jfrog/nexus
+ CODE QUALITY----sonarqube
+ DEPLOY----------chef/ansible/puppet/hockyapp
