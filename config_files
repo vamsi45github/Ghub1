@@ -1,0 +1,6 @@
+/etc/smmba/samba.conf
+/etc/vsftp/vsftpd.conf
+/etc/named.conf
+/etc/system/networtk-scripts
+/etc/sys/class/scsi_host/host0
+
