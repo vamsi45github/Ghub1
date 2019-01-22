@@ -1,0 +1,10 @@
+ introduction
+
+ SCM--------------svn,git,bitbucket/stash
+ BUILD------------maven/ant/gradle/fastlane
+ CI/CD------------jenkins/bamboo/circle-ci/travies
+ BACKUP
+ CODE QUALITY
+ DEPLOY
+
+ Flow chart
