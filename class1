@@ -1,5 +1,13 @@
  introduction
 
+<<<<<<< HEAD
+ SCM-------------git/stash/bit-bucket/svn
+ BUILD-----------maven/ant/gradle/fastlane
+ CI/CD-----------jenkins/bamboo/circle-ci/travies
+ BACKUP----------Jfrog/nexus
+ CODE QUALITY----sonarqube
+ DEPLOY----------chef/ansible/puppet/hockyapp
+=======
  SCM
  BUILD
  CI/CD
@@ -8,3 +16,4 @@
  DEPLOY
 
  Flow chart
+>>>>>>> 6637023fe9ba3b804163a2cef9f46971619c2586
